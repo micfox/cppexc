@@ -5,5 +5,5 @@ int main()
 	Name_pair np;
 	np.read_name();
 	np.read_age();
-	np.print();
+	cout << np;
 }
