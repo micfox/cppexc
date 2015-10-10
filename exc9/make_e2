@@ -1,0 +1,1 @@
+g++ -std=c++11 name_pair.cpp e2.cpp -o test_e2 
