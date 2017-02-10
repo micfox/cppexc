@@ -10,7 +10,7 @@ ostream& operator<<(ostream& os, vector<T>& v)
         os << t;
         os << ' ';
     }
-    os << '}';
+    os << '}' << endl;
     return os;
 }
 
